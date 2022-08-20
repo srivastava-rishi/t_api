@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "employee_name": "Tiger Nixon",
+      "employee_salary": 320800,
+      "employee_age": 61,
+      "profile_image": "https://media.istockphoto.com/photos/professional-male-agronomist-examine-the-wheat-field-using-a-tablet-picture-id1414745946?b=1&k=20&m=1414745946&s=170667a&w=0&h=PZAXI6O4XVSQLtwgQjBscn1cH_r31XzEBBjePcJNm44="
+    },
+    {
+      "id": 2,
+      "employee_name": "Garrett Winters",
+      "employee_salary": 170750,
+      "employee_age": 63,
+      "profile_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljJTIwb2YlMjBtZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "employee_name": "Ashton Cox",
+      "employee_salary": 86000,
+      "employee_age": 66,
+      "profile_image": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGljJTIwb2YlMjBtZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "employee_name": "Cedric Kelly",
+      "employee_salary": 433060,
+      "employee_age": 22,
+      "profile_image": "https://media.istockphoto.com/photos/portrait-of-casual-smiling-man-picture-id1138562953?b=1&k=20&m=1138562953&s=170667a&w=0&h=FkuZQk-8sWvMzjcwtglYXIlEIelPKKXnQl1FbXWedmQ="
+    },
+    {
+      "id": 5,
+      "employee_name": "Airi Satou",
+      "employee_salary": 162700,
+      "employee_age": 33,
+      "profile_image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "employee_name": "Brielle Williamson",
+      "employee_salary": 372000,
+      "employee_age": 61,
+      "profile_image": "https://images.unsplash.com/photo-1440606797942-6cc04c045447?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "employee_name": "Herrod Chandler",
+      "employee_salary": 137500,
+      "employee_age": 59,
+      "profile_image": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "employee_name": "Rhona Davidson",
+      "employee_salary": 327900,
+      "employee_age": 55,
+      "profile_image": "https://images.unsplash.com/photo-1535745318714-da922ca9cc81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "employee_name": "Colleen Hurst",
+      "employee_salary": 205500,
+      "employee_age": 39,
+      "profile_image": "https://images.unsplash.com/photo-1517840933437-c41356892b35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 10,
+      "employee_name": "Sonya Frost",
+      "employee_salary": 103600,
+      "employee_age": 23,
+      "profile_image": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 11,
+      "employee_name": "Jena Gaines",
+      "employee_salary": 90560,
+      "employee_age": 30,
+      "profile_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 12,
+      "employee_name": "Quinn Flynn",
+      "employee_salary": 342000,
+      "employee_age": 22,
+      "profile_image": "https://images.unsplash.com/photo-1509112552557-8eb3dab85cfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 13,
+      "employee_name": "Charde Marshall",
+      "employee_salary": 470600,
+      "employee_age": 36,
+      "profile_image": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 14,
+      "employee_name": "Haley Kennedy",
+      "employee_salary": 313500,
+      "employee_age": 43,
+      "profile_image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 15,
+      "employee_name": "Tatyana Fitzpatrick",
+      "employee_salary": 385750,
+      "employee_age": 19,
+      "profile_image": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 16,
+      "employee_name": "Michael Silva",
+      "employee_salary": 198500,
+      "employee_age": 66,
+      "profile_image": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 17,
+      "employee_name": "Paul Byrd",
+      "employee_salary": 725000,
+      "employee_age": 64,
+      "profile_image": "https://images.unsplash.com/photo-1611095973763-414019e72400?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 18,
+      "employee_name": "Gloria Little",
+      "employee_salary": 237500,
+      "employee_age": 59,
+      "profile_image": "https://images.unsplash.com/photo-1612832164313-ac0d7e07b5ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 19,
+      "employee_name": "Bradley Greer",
+      "employee_salary": 132000,
+      "employee_age": 41,
+      "profile_image": "https://media.istockphoto.com/photos/smiling-bearded-man-using-smartphone-in-cafe-picture-id840729782?k=20&m=840729782&s=170667a&w=0&h=_PQQ97dNNOxSqEihMJxThidWosmpTcBthDUINQAjQLY="
+    },
+    {
+      "id": 20,
+      "employee_name": "Dai Rios",
+      "employee_salary": 217500,
+      "employee_age": 35,
+      "profile_image": "https://images.unsplash.com/photo-1620403724141-2b250fd48f63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 21,
+      "employee_name": "Jenette Caldwell",
+      "employee_salary": 345000,
+      "employee_age": 30,
+      "profile_image": "https://images.unsplash.com/photo-1535426797422-ccf85c994fbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 22,
+      "employee_name": "Yuri Berry",
+      "employee_salary": 675000,
+      "employee_age": 40,
+      "profile_image": "https://images.unsplash.com/photo-1452269826925-82be65baa057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 23,
+      "employee_name": "Caesar Vance",
+      "employee_salary": 106450,
+      "employee_age": 21,
+      "profile_image": "https://images.unsplash.com/photo-1497184091687-09d30ae055e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 24,
+      "employee_name": "Doris Wilder",
+      "employee_salary": 85600,
+      "employee_age": 23,
+      "profile_image": "https://images.unsplash.com/photo-1476147578954-fffd6bf00ab0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "message": "Successfully! All records has been fetched."
+}
